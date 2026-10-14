@@ -1,9 +1,5 @@
 # Haotian Ma
 
-## About
-
-*Explain AI, from learned features to abstract concepts.*
-
 Ph.D. candidate in Computer Science at the **University of Wisconsin–Madison**.
 
 [Website](https://atheavenma.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=UMm3StwAAAAJ) · [CV](https://atheavenma.github.io/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/Atheaven-Ma) · [Email](mailto:hma232@wisc.edu)
