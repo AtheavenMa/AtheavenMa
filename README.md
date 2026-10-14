@@ -1,14 +1,14 @@
 # Haotian Ma
 
+## About
+
 *Explain AI, from learned features to abstract concepts.*
 
 Ph.D. candidate in Computer Science at the **University of Wisconsin–Madison**.
 
 [Website](https://atheavenma.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=UMm3StwAAAAJ) · [CV](https://atheavenma.github.io/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/Atheaven-Ma) · [Email](mailto:hma232@wisc.edu)
 
----
-
-I study how learned representations shape model behavior across interventions, combinations, and changing contexts. My work spans **mechanistic interpretability**, **LLM reasoning**, **AI safety**, and **AI for scientific discovery**.
+My goal is to explain AI behavior from the bottom up, starting with learned features and building toward abstract concepts. To pursue this goal, I develop methods to understand how learned representations shape model behavior across interventions, combinations, and changing contexts. My research combines theory, method development, controlled interventions, and large-scale evaluation across mechanistic interpretability, LLM reasoning, AI safety, and AI for scientific discovery.
 
 ## Research
 
@@ -17,7 +17,7 @@ I study how learned representations shape model behavior across interventions, c
 - **Compositionality, Intervention, and Systematic Reasoning in LLMs** — Study when model components and structural transformations can be combined, reused, or generalized reliably in unseen settings.
 - **Reliable LLMs and AI Safety** — Characterize how AI systems remain reliable under uncertain preferences, underspecified user identities, and risks of private information leakage.
 
-## Open-source Research
+## Open-source
 
 - 🧩 **[SAR — Behavioral Compositionality of Sparse Autoencoder Representations](https://github.com/OpenSAE/SAE-Behavioral-Compositionality)** — Measures behavioral effects that cannot be explained by individual SAE features alone.
 - 🔀 **[RSS — Representation Redistribution in Sparse Autoencoders](https://github.com/OpenSAE/Redistribution-Sensitivity-Score)** — Identifies consistent shifts in SAE feature activity under prompt transformations.
