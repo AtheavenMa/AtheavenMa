@@ -2,7 +2,7 @@
 
 *Explain AI, from learned features to abstract concepts.*
 
-Ph.D. candidate in Computer Science at the **University of Wisconsin–Madison**, advised by [Prof. Daifeng Wang](https://daifengwanglab.org/).
+Ph.D. candidate in Computer Science at the **University of Wisconsin–Madison**.
 
 [Website](https://atheavenma.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=UMm3StwAAAAJ) · [CV](https://atheavenma.github.io/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/Atheaven-Ma) · [Email](mailto:hma232@wisc.edu)
 
@@ -12,9 +12,10 @@ I study how learned representations shape model behavior across interventions, c
 
 ## Research
 
-- **Faithful Representations and Mechanistic Interpretability** — Understanding when learned features support reliable explanations and interventions.
-- **Interpretable AI for Scientific Discovery** — Developing interpretable methods for spatial omics and scientific data.
-- **Compositionality, Intervention, and Reasoning for LLMs** — Studying how learned features and model components behave when combined or reused.
+- **Faithful Representations and Mechanistic Interpretability** — Understand feature representations and how those representations support faithful explanations and interventions.
+- **Interpretable AI for Scientific Discovery** — Develop interpretable methods that connect model decisions to scientifically meaningful spatial, spectral, and molecular structure.
+- **Compositionality, Intervention, and Systematic Reasoning in LLMs** — Study when model components and structural transformations can be combined, reused, or generalized reliably in unseen settings.
+- **Reliable LLMs and AI Safety** — Characterize how AI systems remain reliable under uncertain preferences, underspecified user identities, and risks of private information leakage.
 
 ## Open-source Research
 
