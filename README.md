@@ -19,7 +19,3 @@ My goal is to explain AI behavior from the bottom up, starting with learned feat
 - 🔀 **[RSS — Representation Redistribution in Sparse Autoencoders](https://github.com/OpenSAE/Redistribution-Sensitivity-Score)** — Identifies consistent shifts in SAE feature activity under prompt transformations.
 
 More: [Research](https://atheavenma.github.io/#research) · [Publications](https://atheavenma.github.io/#papers) · [OpenSAE](https://github.com/OpenSAE)
-
----
-
-*Open to Research Scientist opportunities in mechanistic interpretability, AI safety, and frontier model evaluation.*
