@@ -19,19 +19,23 @@ My goal is to explain AI behavior from the bottom up, starting with learned feat
 
     Research infrastructure for understanding, testing, and modifying SAE features in LLMs.
 
-- 🧩 [**SAR — Behavioral Compositionality of Sparse Autoencoder Representations**](https://github.com/OpenSAE/SAE-Behavioral-Compositionality)
+- 🧩 [**Behavioral Compositionality of Sparse Autoencoder Representations**](https://github.com/OpenSAE/SAE-Behavioral-Compositionality)
 
     Measures how much model behavior depends on interactions among its SAE features.
 
-- 🔀 [**RSS — Representation Redistribution in Sparse Autoencoders**](https://github.com/OpenSAE/Redistribution-Sensitivity-Score)
+- 🔀 [**Representation Redistribution in Sparse Autoencoders**](https://github.com/OpenSAE/Redistribution-Sensitivity-Score)
 
     Detects consistent shifts in SAE feature activity when the same request is presented differently.
 
-- 🔥 [**SSI — Spectral-Spatial Interpretation**](https://github.com/AtheavenMa/Spectral-Spatial-Interpretation)
+- 🧭 [**Sparse Autoencoders Do Not Guarantee Local Features**](https://github.com/OpenSAE/SAE-Input-Localization)
+
+    Shows that SAE features can look simple while depending on many interacting inputs.
+
+- 🔥 [**Spectral-Spatial Interpretation**](https://github.com/AtheavenMa/Spectral-Spatial-Interpretation)
 
     Identifies which spatial locations drive predictions and which spectral channels matter at each location.
 
-- 🎯 [**SymSelect — Learning Which Transformations to Trust for Systematic Reasoning**](https://github.com/AtheavenMa/SymSelect)
+- 🎯 [**SymSelect: Learning Which Transformations to Trust for Systematic Reasoning**](https://github.com/AtheavenMa/SymSelect)
 
     Helps models learn from altered examples without knowing which alterations preserve correct answers.
 
