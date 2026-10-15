@@ -15,10 +15,24 @@ My goal is to explain AI behavior from the bottom up, starting with learned feat
 
 ## Open-source
 
-- 🔥 **[SSI — Spectral-Spatial Interpretation](https://github.com/AtheavenMa/Spectral-Spatial-Interpretation)** — Explains which spectral channels matter and where through spatially resolved Shapley attributions.
-- 🧩 **[SAR — Behavioral Compositionality of Sparse Autoencoder Representations](https://github.com/OpenSAE/SAE-Behavioral-Compositionality)** — Measures behavioral effects that cannot be explained by individual SAE features alone.
-- 🔀 **[RSS — Representation Redistribution in Sparse Autoencoders](https://github.com/OpenSAE/Redistribution-Sensitivity-Score)** — Identifies consistent shifts in SAE feature activity under prompt transformations.
-- 🎯 **[SymSelect — Learning Which Transformations to Trust for Systematic Reasoning](https://github.com/AtheavenMa/SymSelect)** — Selects transformation pairs for representation alignment without requiring transformation-validity labels.
-- ⏳ **[The Horizon of Reward Guidance](https://github.com/AtheavenMa/The-Horizon-of-Reward-Guidance)** — Characterizes how long preference information can certify policy improvement as reward targets change and adaptation is limited.
+- 🔥 [**SSI — Spectral-Spatial Interpretation**](https://github.com/AtheavenMa/Spectral-Spatial-Interpretation)
+
+    Explains which spectral channels matter and where through spatially resolved Shapley attributions.
+
+- 🧩 [**SAR — Behavioral Compositionality of Sparse Autoencoder Representations**](https://github.com/OpenSAE/SAE-Behavioral-Compositionality)
+
+    Measures behavioral effects that cannot be explained by individual SAE features alone.
+
+- 🔀 [**RSS — Representation Redistribution in Sparse Autoencoders**](https://github.com/OpenSAE/Redistribution-Sensitivity-Score)
+
+    Identifies consistent shifts in SAE feature activity under prompt transformations.
+
+- 🎯 [**SymSelect — Learning Which Transformations to Trust for Systematic Reasoning**](https://github.com/AtheavenMa/SymSelect)
+
+    Selects transformation pairs for representation alignment without requiring transformation-validity labels.
+
+- ⏳ [**The Horizon of Reward Guidance**](https://github.com/AtheavenMa/The-Horizon-of-Reward-Guidance)
+
+    Characterizes how long preference information can certify policy improvement as reward targets change and adaptation is limited.
 
 More: [Research](https://atheavenma.github.io/#research) · [Publications](https://atheavenma.github.io/#papers) · [OpenSAE](https://github.com/OpenSAE)
