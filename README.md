@@ -21,7 +21,7 @@ My goal is to explain AI behavior from the bottom up, starting with learned feat
 
 - 🧩 [**SAR — Behavioral Compositionality of Sparse Autoencoder Representations**](https://github.com/OpenSAE/SAE-Behavioral-Compositionality)
 
-    Measures behavioral effects that cannot be explained by individual SAE features alone.
+    Measures how much model behavior depends on interactions between its learned SAE features.
 
 - 🔀 [**RSS — Representation Redistribution in Sparse Autoencoders**](https://github.com/OpenSAE/Redistribution-Sensitivity-Score)
 
