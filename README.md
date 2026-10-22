@@ -43,4 +43,4 @@ My goal is to explain AI behavior from the bottom up, starting with learned feat
 
     Explains how long human feedback can reliably guide a model as its behavior changes.
 
-More: [Research](https://atheavenma.github.io/#research) · [Publications](https://atheavenma.github.io/#papers) · [OpenSAE](https://github.com/OpenSAE)
+More: [Research](https://atheavenma.github.io/#research) · [Publications](https://atheavenma.github.io/#papers)
