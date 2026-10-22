@@ -49,37 +49,69 @@ def read_public_metrics() -> tuple[int, int]:
 
 THEMES = {
     "light": {
-        "background": "#f8fafb", "border": "#dae1e7", "primary": "#17242e",
-        "secondary": "#50616e", "accent": "#235d81", "rule": "#dce4e9",
+        "canvas": "#ffffff",
+        "card_fill": "#f8fbff",
+        "card_fill_2": "#f7fafc",
+        "card_fill_3": "#f9fafb",
+        "border": "#d9e3ee",
+        "shadow": "#eef3f8",
+        "primary": "#182431",
+        "secondary": "#5a6b7b",
+        "accent": "#1f6feb",
+        "accent_2": "#0ea5a4",
+        "accent_3": "#7c4dff",
     },
     "dark": {
-        "background": "#141b22", "border": "#303c47", "primary": "#eaf0f6",
-        "secondary": "#a2b0bd", "accent": "#95c8e6", "rule": "#35414c",
+        "canvas": "#0d1117",
+        "card_fill": "#141b24",
+        "card_fill_2": "#141a22",
+        "card_fill_3": "#151923",
+        "border": "#2f3845",
+        "shadow": "#10161d",
+        "primary": "#eef4fb",
+        "secondary": "#a1b0be",
+        "accent": "#77b3ff",
+        "accent_2": "#56d4d2",
+        "accent_3": "#b392ff",
     },
 }
+
+FONT = '-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif'
+
+
+def _card(x: int, title: str, value: int, fill: str, accent: str, border: str, primary: str, secondary: str) -> str:
+    y = 18
+    w = 286
+    h = 168
+    return "\n".join(
+        [
+            f'<g transform="translate({x}, {y})">',
+            f'  <rect x="6" y="8" width="{w}" height="{h}" rx="20" fill="{border}" opacity="0.18"/>',
+            f'  <rect width="{w}" height="{h}" rx="20" fill="{fill}" stroke="{border}"/>',
+            f'  <rect x="0" y="0" width="{w}" height="8" rx="20" fill="{accent}"/>',
+            f'  <text x="28" y="82" fill="{accent}" font-family="{FONT}" font-size="60" font-weight="760">{value:,}</text>',
+            f'  <text x="28" y="122" fill="{primary}" font-family="{FONT}" font-size="24" font-weight="680">{title}</text>',
+            '</g>',
+        ]
+    )
 
 
 def make_svg(theme: str, merged_prs: int, stars: int) -> str:
     c = THEMES[theme]
     metrics = (
-        (merged_prs, "PUBLIC MERGED PRS", "Pull requests merged"),
-        (stars, "PROJECT REACH", "Stars across 7 selected repositories"),
-        (len(REPOSITORIES), "RESEARCH CODE", "Featured repositories"),
+        ("Merged PRs", merged_prs, c["card_fill"], c["accent"]),
+        ("Project Stars", stars, c["card_fill_2"], c["accent_2"]),
+        ("Research Repos", len(REPOSITORIES), c["card_fill_3"], c["accent_3"]),
     )
-    lefts = (30, 350, 670)
     parts = [
-        '<svg xmlns="http://www.w3.org/2000/svg" width="960" height="160" viewBox="0 0 960 160" role="img" aria-labelledby="title desc">',
-        '<title id="title">GitHub open-source activity</title>',
-        f'<desc id="desc">{merged_prs} publicly merged pull requests, {stars} stars across seven selected research repositories, and seven featured research repositories. Data from the GitHub public API.</desc>',
-        f'<rect x="0.5" y="0.5" width="959" height="159" rx="12" fill="{c["background"]}" stroke="{c["border"]}"/>',
-        f'<path d="M320 26 V134 M640 26 V134" fill="none" stroke="{c["rule"]}"/>',
+        '<svg xmlns="http://www.w3.org/2000/svg" width="960" height="204" viewBox="0 0 960 204" role="img" aria-labelledby="title desc">',
+        '<title id="title">GitHub activity highlights</title>',
+        f'<desc id="desc">{merged_prs} publicly merged pull requests, {stars} stars across selected research repositories, and {len(REPOSITORIES)} featured research repositories.</desc>',
+        f'<rect width="960" height="204" rx="24" fill="{c["canvas"]}"/>',
     ]
-    for x, (number, category, label) in zip(lefts, metrics):
-        parts.extend((
-            f'<text x="{x}" y="36" fill="{c["secondary"]}" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="13" font-weight="650" letter-spacing="1.6">{category}</text>',
-            f'<text x="{x}" y="101" fill="{c["accent"]}" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700">{number:,}</text>',
-            f'<text x="{x}" y="135" fill="{c["primary"]}" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="16">{label}</text>',
-        ))
+    xs = (18, 337, 656)
+    for x, (title, value, fill, accent) in zip(xs, metrics):
+        parts.append(_card(x, title, value, fill, accent, c["border"], c["primary"], c["secondary"]))
     parts.append('</svg>')
     return "\n".join(parts) + "\n"
 
@@ -88,7 +120,7 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--preview", action="store_true", help="Use an offline 2026-10-22 snapshot")
     args = parser.parse_args()
-    merged_prs, stars = (49, 62) if args.preview else read_public_metrics()
+    merged_prs, stars = (51, 62) if args.preview else read_public_metrics()
     (ROOT / "assets").mkdir(exist_ok=True)
     for theme in THEMES:
         (ROOT / "assets" / f"github-activity-{theme}.svg").write_text(

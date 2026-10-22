@@ -1,15 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="160" viewBox="0 0 960 160" role="img" aria-labelledby="title desc">
-<title id="title">GitHub open-source activity</title>
-<desc id="desc">49 publicly merged pull requests, 62 stars across seven selected research repositories, and seven featured research repositories. Data from the GitHub public API.</desc>
-<rect x="0.5" y="0.5" width="959" height="159" rx="12" fill="#f8fafb" stroke="#dae1e7"/>
-<path d="M320 26 V134 M640 26 V134" fill="none" stroke="#dce4e9"/>
-<text x="30" y="36" fill="#50616e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="13" font-weight="650" letter-spacing="1.6">PUBLIC MERGED PRS</text>
-<text x="30" y="101" fill="#235d81" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700">49</text>
-<text x="30" y="135" fill="#17242e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="16">Pull requests merged</text>
-<text x="350" y="36" fill="#50616e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="13" font-weight="650" letter-spacing="1.6">PROJECT REACH</text>
-<text x="350" y="101" fill="#235d81" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700">62</text>
-<text x="350" y="135" fill="#17242e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="16">Stars across 7 selected repositories</text>
-<text x="670" y="36" fill="#50616e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="13" font-weight="650" letter-spacing="1.6">RESEARCH CODE</text>
-<text x="670" y="101" fill="#235d81" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700">7</text>
-<text x="670" y="135" fill="#17242e" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="16">Featured repositories</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="204" viewBox="0 0 960 204" role="img" aria-labelledby="title desc">
+<title id="title">GitHub activity highlights</title>
+<desc id="desc">51 publicly merged pull requests, 62 stars across selected research repositories, and 7 featured research repositories.</desc>
+<rect width="960" height="204" rx="24" fill="#ffffff"/>
+<g transform="translate(18, 18)">
+  <rect x="6" y="8" width="286" height="168" rx="20" fill="#d9e3ee" opacity="0.18"/>
+  <rect width="286" height="168" rx="20" fill="#f8fbff" stroke="#d9e3ee"/>
+  <rect x="0" y="0" width="286" height="8" rx="20" fill="#1f6feb"/>
+  <text x="28" y="82" fill="#1f6feb" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="60" font-weight="760">51</text>
+  <text x="28" y="122" fill="#182431" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="24" font-weight="680">Merged PRs</text>
+</g>
+<g transform="translate(337, 18)">
+  <rect x="6" y="8" width="286" height="168" rx="20" fill="#d9e3ee" opacity="0.18"/>
+  <rect width="286" height="168" rx="20" fill="#f7fafc" stroke="#d9e3ee"/>
+  <rect x="0" y="0" width="286" height="8" rx="20" fill="#0ea5a4"/>
+  <text x="28" y="82" fill="#0ea5a4" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="60" font-weight="760">62</text>
+  <text x="28" y="122" fill="#182431" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="24" font-weight="680">Project Stars</text>
+</g>
+<g transform="translate(656, 18)">
+  <rect x="6" y="8" width="286" height="168" rx="20" fill="#d9e3ee" opacity="0.18"/>
+  <rect width="286" height="168" rx="20" fill="#f9fafb" stroke="#d9e3ee"/>
+  <rect x="0" y="0" width="286" height="8" rx="20" fill="#7c4dff"/>
+  <text x="28" y="82" fill="#7c4dff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="60" font-weight="760">7</text>
+  <text x="28" y="122" fill="#182431" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="24" font-weight="680">Research Repos</text>
+</g>
 </svg>
