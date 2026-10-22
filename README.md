@@ -6,12 +6,6 @@ Ph.D. Candidate · **UW–Madison CS** · Founder & Maintainer, **[OpenSAE](http
 
 I study how learned representations support explanations, interventions, and reliable model behavior. My work combines theoretical analysis, methods, and large-scale evaluations across mechanistic interpretability, language models, and AI for scientific discovery.
 
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-activity-dark.svg" />
-  <img src="./assets/github-activity-light.svg" alt="Live GitHub activity metrics, including merged public pull requests, stars on selected research repositories, and featured repositories." width="100%" />
-</picture>
 
 ## Achievements
 
