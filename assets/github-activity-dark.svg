@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="160" viewBox="0 0 960 160" role="img" aria-labelledby="title desc">
+<title id="title">GitHub open-source activity</title>
+<desc id="desc">49 publicly merged pull requests, 62 stars across seven selected research repositories, and seven featured research repositories. Data from the GitHub public API.</desc>
+<rect x="0.5" y="0.5" width="959" height="159" rx="12" fill="#141b22" stroke="#303c47"/>
+<path d="M320 26 V134 M640 26 V134" fill="none" stroke="#35414c"/>
+<text x="30" y="36" fill="#a2b0bd" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="13" font-weight="650" letter-spacing="1.6">PUBLIC MERGED PRS</text>
+<text x="30" y="101" fill="#95c8e6" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700">49</text>
+<text x="30" y="135" fill="#eaf0f6" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="16">Pull requests merged</text>
+<text x="350" y="36" fill="#a2b0bd" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="13" font-weight="650" letter-spacing="1.6">PROJECT REACH</text>
+<text x="350" y="101" fill="#95c8e6" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700">62</text>
+<text x="350" y="135" fill="#eaf0f6" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="16">Stars across 7 selected repositories</text>
+<text x="670" y="36" fill="#a2b0bd" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="13" font-weight="650" letter-spacing="1.6">RESEARCH CODE</text>
+<text x="670" y="101" fill="#95c8e6" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="54" font-weight="700">7</text>
+<text x="670" y="135" fill="#eaf0f6" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="16">Featured repositories</text>
+</svg>
