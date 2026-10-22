@@ -1,6 +1,6 @@
 # Haotian Ma
 
-Ph.D. Candidate · **UW–Madison CS** · Founder & Maintainer, **[OpenSAE](https://github.com/OpenSAE)**
+Ph.D. Candidate, UW–Madison CS | Founder & Maintainer, [OpenSAE](https://github.com/OpenSAE)
 
 [Website](https://atheavenma.github.io/) · [CV](https://atheavenma.github.io/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/Atheaven-Ma) · [Hugging Face](https://huggingface.co/Hunter26666666) · [Email](mailto:hma232@wisc.edu)
 
@@ -30,24 +30,24 @@ At [OpenSAE](https://github.com/OpenSAE), I develop open-source research infrast
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p><strong>🧱 <a href="https://github.com/OpenSAE/SAEBase">SAEBase</a></strong> <a href="https://github.com/OpenSAE/SAEBase"><img src="https://img.shields.io/github/stars/OpenSAE/SAEBase?style=social&amp;label=Stars" height="18" align="middle" alt="SAEBase GitHub Stars" /></a></p>
+      <p><a href="https://github.com/OpenSAE/SAEBase"><img src="https://img.shields.io/github/stars/OpenSAE/SAEBase?style=social&amp;label=Stars" align="right" height="20" alt="SAEBase GitHub Stars" /></a><strong>🧱 <a href="https://github.com/OpenSAE/SAEBase">SAEBase</a></strong></p>
       <p>Research infrastructure for evaluating, understanding, and intervening on sparse autoencoder features in language models.</p>
       <p><a href="https://github.com/OpenSAE/SAEBase">Code</a> · <a href="https://huggingface.co/spaces/OpenSAE/SAEBase">Research Lab</a> · <a href="https://huggingface.co/datasets/OpenSAE/SAEBase-Evaluation">Dataset</a></p>
     </td>
     <td width="50%" valign="top">
-      <p><strong>🧩 <a href="https://github.com/OpenSAE/SAE-Behavioral-Compositionality">SAR</a></strong> <a href="https://github.com/OpenSAE/SAE-Behavioral-Compositionality"><img src="https://img.shields.io/github/stars/OpenSAE/SAE-Behavioral-Compositionality?style=social&amp;label=Stars" height="18" align="middle" alt="SAR GitHub Stars" /></a></p>
+      <p><a href="https://github.com/OpenSAE/SAE-Behavioral-Compositionality"><img src="https://img.shields.io/github/stars/OpenSAE/SAE-Behavioral-Compositionality?style=social&amp;label=Stars" align="right" height="20" alt="SAR GitHub Stars" /></a><strong>🧩 <a href="https://github.com/OpenSAE/SAE-Behavioral-Compositionality">SAR</a></strong></p>
       <p>Measures when interventions on SAE features combine additively and when feature interactions change model behavior.</p>
       <p><a href="https://github.com/OpenSAE/SAE-Behavioral-Compositionality">Code</a> · <a href="https://arxiv.org/abs/2610.21261">Paper</a> · <a href="https://huggingface.co/spaces/OpenSAE/sar-tutorial">Tutorial</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p><strong>🔀 <a href="https://github.com/OpenSAE/Redistribution-Sensitivity-Score">RSS</a></strong> <a href="https://github.com/OpenSAE/Redistribution-Sensitivity-Score"><img src="https://img.shields.io/github/stars/OpenSAE/Redistribution-Sensitivity-Score?style=social&amp;label=Stars" height="18" align="middle" alt="RSS GitHub Stars" /></a></p>
+      <p><a href="https://github.com/OpenSAE/Redistribution-Sensitivity-Score"><img src="https://img.shields.io/github/stars/OpenSAE/Redistribution-Sensitivity-Score?style=social&amp;label=Stars" align="right" height="20" alt="RSS GitHub Stars" /></a><strong>🔀 <a href="https://github.com/OpenSAE/Redistribution-Sensitivity-Score">RSS</a></strong></p>
       <p>Studies systematic redistribution of SAE feature activity under prompt transformations and tests its persistence.</p>
       <p><a href="https://github.com/OpenSAE/Redistribution-Sensitivity-Score">Code</a> · <a href="https://huggingface.co/OpenSAE">OpenSAE on Hugging Face</a></p>
     </td>
     <td width="50%" valign="top">
-      <p><strong>🔥 <a href="https://github.com/AtheavenMa/Spectral-Spatial-Interpretation">Spectral-Spatial Interpretation</a></strong> <a href="https://github.com/AtheavenMa/Spectral-Spatial-Interpretation"><img src="https://img.shields.io/github/stars/AtheavenMa/Spectral-Spatial-Interpretation?style=social&amp;label=Stars" height="18" align="middle" alt="SSI GitHub Stars" /></a></p>
+      <p><a href="https://github.com/AtheavenMa/Spectral-Spatial-Interpretation"><img src="https://img.shields.io/github/stars/AtheavenMa/Spectral-Spatial-Interpretation?style=social&amp;label=Stars" align="right" height="20" alt="SSI GitHub Stars" /></a><strong>🔥 <a href="https://github.com/AtheavenMa/Spectral-Spatial-Interpretation">Spectral-Spatial Interpretation</a></strong></p>
       <p>Identifies which spectral channels matter at each spatial location for a model's prediction.</p>
       <p><a href="https://github.com/AtheavenMa/Spectral-Spatial-Interpretation">Code</a> · <a href="https://arxiv.org/abs/2610.21114">Paper</a> · <a href="https://huggingface.co/spaces/Hunter26666666/SSI_Space">Playground</a></p>
     </td>
