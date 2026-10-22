@@ -2,7 +2,7 @@
 
 Ph.D. candidate in Computer Science at the **University of Wisconsin–Madison**.
 
-[Website](https://atheavenma.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=UMm3StwAAAAJ) · [CV](https://atheavenma.github.io/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/Atheaven-Ma) · [Email](mailto:hma232@wisc.edu)
+[Website](https://atheavenma.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=UMm3StwAAAAJ) · [CV](https://atheavenma.github.io/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/Atheaven-Ma) · [Hugging Face](https://huggingface.co/Hunter26666666) · [OpenSAE](https://github.com/OpenSAE) · [Email](mailto:hma232@wisc.edu)
 
 My goal is to explain AI behavior from the bottom up, starting with learned features and building toward abstract concepts. To pursue this goal, I develop methods to understand how learned representations shape model behavior across interventions, combinations, and changing contexts. My research combines theory, method development, controlled interventions, and large-scale evaluation across mechanistic interpretability, LLM reasoning, AI safety, and AI for scientific discovery.
 
@@ -39,7 +39,7 @@ My goal is to explain AI behavior from the bottom up, starting with learned feat
 
     Helps models learn from altered examples without knowing which alterations preserve correct answers.
 
-- ⏳ [**The Horizon of Reward Guidance**](https://github.com/AtheavenMa/The-Horizon-of-Reward-Guidance)
+- ⏳ [**The Limits of Reward Guidance under Finite Adaptation**](https://github.com/AtheavenMa/The-Limits-of-Reward-Guidance-under-Finite-Adaptation)
 
     Explains how long human feedback can reliably guide a model as its behavior changes.
 
