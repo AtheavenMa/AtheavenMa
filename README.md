@@ -16,6 +16,8 @@ At [OpenSAE](https://github.com/OpenSAE), I develop open-source research infrast
 <p>
   <a href="https://github.com/AtheavenMa?achievement=pull-shark&amp;tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" alt="Pull Shark ×2" title="Pull Shark ×2" width="72" /></a>
   &nbsp;
+  <a href="https://github.com/AtheavenMa?achievement=pair-extraordinaire&amp;tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" alt="Pair Extraordinaire" title="Pair Extraordinaire" width="72" /></a>
+  &nbsp;
   <a href="https://github.com/AtheavenMa?achievement=starstruck&amp;tab=achievements"><img src="https://raw.githubusercontent.com/PurpleMonkey729/GitHub-Profile-Achievement-Badge/master/images/starstruck-default.png" alt="Starstruck" title="Starstruck" width="72" /></a>
   &nbsp;
   <a href="https://github.com/AtheavenMa?achievement=quickdraw&amp;tab=achievements"><img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" title="Quickdraw" width="72" /></a>
