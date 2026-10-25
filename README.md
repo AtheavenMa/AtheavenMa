@@ -1,6 +1,6 @@
 # Haotian Ma
 
-Ph.D. Candidate, UW–Madison Computer Sciences (Jun 2027) | Founder & Maintainer, [OpenSAE](https://atheavenma.github.io/opensae/index.html)
+Ph.D. Candidate, UW–Madison Computer Sciences | Founder & Maintainer, [OpenSAE](https://atheavenma.github.io/opensae/index.html)
 
 [Website](https://atheavenma.github.io/) · [CV](https://atheavenma.github.io/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/atheaven-ma/) · [Hugging Face](https://huggingface.co/Hunter26666666) · [Email](mailto:hma232@wisc.edu)
 
