@@ -1,14 +1,16 @@
 # Haotian Ma
 
-Ph.D. Candidate, UW–Madison CS | Founder & Maintainer, [OpenSAE](https://github.com/OpenSAE)
+Ph.D. Candidate, UW–Madison Computer Sciences | Founder & Maintainer, [OpenSAE](https://github.com/OpenSAE)
 
 [Website](https://atheavenma.github.io/) · [CV](https://atheavenma.github.io/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/Atheaven-Ma) · [Hugging Face](https://huggingface.co/Hunter26666666) · [Email](mailto:hma232@wisc.edu)
 
-I study how learned representations shape model behavior and when they support faithful explanations. My research spans mechanistic interpretability, LLM interventions, and AI for scientific discovery.
+I study how learned representations shape model behavior across interventions, combinations, and changing contexts. My work brings together theory, controlled interventions, open-source research infrastructure, and large-scale evaluation in mechanistic interpretability, LLM reasoning, AI safety, and AI for scientific discovery.
 
-My featured work includes [*Spectral-Spatial Interpretation*](https://arxiv.org/abs/2610.21114) (**NeurIPS 2026**), [*SegJointGene*](https://www.biorxiv.org/content/10.64898/2026.01.08.698474v1.full.pdf) (**Bioinformatics 2026**), and [*DeepInfo*](https://proceedings.mlr.press/v162/ma22b.html) (**ICML 2022 Spotlight**).
+My selected publications include [*Spectral-Spatial Interpretation*](https://arxiv.org/abs/2610.21114) (**NeurIPS 2026**), [*SegJointGene*](https://www.biorxiv.org/content/10.64898/2026.01.08.698474v1.full.pdf) (**Bioinformatics 2026**), and [*DeepInfo*](https://proceedings.mlr.press/v162/ma22b.html) (**ICML 2022 Spotlight**). Current submissions span sparse autoencoder feature locality and compositionality, representation redistribution, systematic reasoning, and finite-adaptation reward guidance.
 
-At [OpenSAE](https://github.com/OpenSAE), I develop open-source research infrastructure for understanding and evaluating sparse autoencoder features, testing explanations, and performing controlled interventions in language models.
+At [OpenSAE](https://github.com/OpenSAE), I build open research infrastructure for understanding and evaluating language models, including sparse autoencoder analysis, controlled interventions, and reproducible benchmarks.
+
+**Recognition:** Top Reviewer, NeurIPS 2026 · Silver Reviewer, ICML 2026.
 
 
 ## Achievements
@@ -45,7 +47,7 @@ At [OpenSAE](https://github.com/OpenSAE), I develop open-source research infrast
   <tr>
     <td width="50%" valign="top">
       <p><a href="https://github.com/OpenSAE/Redistribution-Sensitivity-Score"><img src="https://img.shields.io/github/stars/OpenSAE/Redistribution-Sensitivity-Score?style=social&amp;label=Stars" align="right" height="20" alt="RSS GitHub Stars" /></a><strong>🔀 <a href="https://github.com/OpenSAE/Redistribution-Sensitivity-Score">RSS</a></strong></p>
-      <p>Studies systematic redistribution of SAE feature activity under prompt transformations and tests its persistence.</p>
+      <p>Studies how prompt changes redistribute sparse feature activity, testing persistence across prompt variants and implications for safety-probe failures.</p>
       <p><a href="https://github.com/OpenSAE/Redistribution-Sensitivity-Score">Code</a> · <a href="https://huggingface.co/OpenSAE">OpenSAE on Hugging Face</a></p>
     </td>
     <td width="50%" valign="top">
