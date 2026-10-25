@@ -1,8 +1,8 @@
 # Haotian Ma
 
-Ph.D. Candidate, UW–Madison Computer Sciences | Founder & Maintainer, [OpenSAE](https://github.com/OpenSAE)
+Ph.D. Candidate, UW–Madison Computer Sciences (Jun 2027) | Founder & Maintainer, [OpenSAE](https://atheavenma.github.io/opensae/index.html)
 
-[Website](https://atheavenma.github.io/) · [CV](https://atheavenma.github.io/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/Atheaven-Ma) · [Hugging Face](https://huggingface.co/Hunter26666666) · [Email](mailto:hma232@wisc.edu)
+[Website](https://atheavenma.github.io/) · [CV](https://atheavenma.github.io/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/atheaven-ma/) · [Hugging Face](https://huggingface.co/Hunter26666666) · [Email](mailto:hma232@wisc.edu)
 
 I study how learned representations shape model behavior across interventions, combinations, and changing contexts. My work brings together theory, controlled interventions, open-source research infrastructure, and large-scale evaluation in mechanistic interpretability, LLM reasoning, AI safety, and AI for scientific discovery.
 
@@ -10,7 +10,7 @@ My selected publications include [*Spectral-Spatial Interpretation*](https://arx
 
 At [OpenSAE](https://github.com/OpenSAE), I build open research infrastructure for understanding and evaluating language models, including sparse autoencoder analysis, controlled interventions, and reproducible benchmarks.
 
-**Recognition:** Top Reviewer, NeurIPS 2026 · Silver Reviewer, ICML 2026.
+**Recognition:** NeurIPS 2026 Top Reviewer · ICML 2026 Silver Reviewer · ACM BCB 2025 Student and Young Professional Award.
 
 
 ## Achievements
@@ -61,11 +61,23 @@ At [OpenSAE](https://github.com/OpenSAE), I build open research infrastructure f
 **Other projects** · 🧭 [SAE Input Localization](https://github.com/OpenSAE/SAE-Input-Localization) · 🎯 [SymSelect](https://github.com/AtheavenMa/SymSelect) · ⏳ [The Limits of Reward Guidance](https://github.com/AtheavenMa/The-Limits-of-Reward-Guidance-under-Finite-Adaptation) · 🧬 [SpatialPheno](https://github.com/AtheavenMa/SpatialPheno) · 🔬 [DeepInfo](https://github.com/AtheavenMa/DeepInfo)
 
 <details>
+<summary>2027 submissions</summary>
+
+- **ICLR 2027:** *Sparse Autoencoders Do Not Guarantee Local Features* · [*Behavioral Compositionality of Sparse Autoencoder Representations*](https://github.com/OpenSAE/SAE-Behavioral-Compositionality) · *Certifying Reuse for LLM Components from Local Interventions*
+- **AAAI 2027:** [*Representation Redistribution in Sparse Autoencoders*](https://github.com/OpenSAE/Redistribution-Sensitivity-Score) · *Gender Attribution by Proxy: Restraint, Fallback, and Rationalization in LLMs*
+- **NAACL 2027:** [*SymSelect: Learning Which Transformations to Trust for Systematic Reasoning*](https://github.com/AtheavenMa/SymSelect)
+- **COLING 2027:** [*The Limits of Reward Guidance under Finite Adaptation*](https://github.com/AtheavenMa/The-Limits-of-Reward-Guidance-under-Finite-Adaptation)
+
+*All works listed above are submissions, not accepted papers.*
+
+</details>
+
+<details>
 <summary>Research directions</summary>
 
-- **Faithful representations and mechanistic interpretability.** Understand learned features and test whether they support faithful explanations and interventions.
+- **Faithful representations and mechanistic interpretability.** Test when learned features support faithful explanations, localization, and interventions.
 - **Interpretable AI for scientific discovery.** Connect model predictions to spatial, spectral, and molecular structures.
-- **Compositionality and systematic reasoning.** Study how model components and structural transformations combine and generalize.
-- **Reliable language models and AI safety.** Examine changing preferences, underspecified user identities, and risks of private-information leakage.
+- **Compositionality, intervention, and systematic reasoning in LLMs.** Study when components and transformations can be combined, reused, or generalized.
+- **Reliable LLMs and AI safety.** Analyze uncertain preferences, unsupported user-identity assumptions, and privacy risks.
 
 </details>
