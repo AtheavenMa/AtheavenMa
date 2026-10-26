@@ -6,11 +6,11 @@ Ph.D. Candidate, UW–Madison Computer Sciences | Founder & Maintainer, [OpenSAE
 
 I study how learned representations shape model behavior across interventions, combinations, and changing contexts. My work brings together theory, controlled interventions, open-source research infrastructure, and large-scale evaluation in mechanistic interpretability, LLM reasoning, AI safety, and AI for scientific discovery.
 
-My selected publications include [*Spectral-Spatial Interpretation*](https://arxiv.org/abs/2610.21114) (**NeurIPS 2026**), [*SegJointGene*](https://www.biorxiv.org/content/10.64898/2026.01.08.698474v1.full.pdf) (**Bioinformatics 2026**), and [*DeepInfo*](https://proceedings.mlr.press/v162/ma22b.html) (**ICML 2022 Spotlight**). Current submissions span sparse autoencoder feature locality and compositionality, representation redistribution, systematic reasoning, and finite-adaptation reward guidance.
+My selected publications include [*Spectral-Spatial Interpretation*](https://arxiv.org/abs/2610.21114) (**NeurIPS 2026**), [*SegJointGene*](https://www.biorxiv.org/content/10.64898/2026.01.08.698474v1.full.pdf) (**Bioinformatics 2026**), and [*DeepInfo*](https://proceedings.mlr.press/v162/ma22b.html) (**ICML 2022 Spotlight**).
 
 At [OpenSAE](https://github.com/OpenSAE), I build open research infrastructure for understanding and evaluating language models, including sparse autoencoder analysis, controlled interventions, and reproducible benchmarks.
 
-**Recognition:** NeurIPS 2026 Top Reviewer · ICML 2026 Silver Reviewer · ACM BCB 2025 Student and Young Professional Award.
+**Recent recognition:** NeurIPS 2026 Top Reviewer · ICML 2026 Silver Reviewer
 
 
 ## Achievements
