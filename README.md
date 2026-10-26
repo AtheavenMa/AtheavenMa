@@ -61,18 +61,6 @@ At [OpenSAE](https://github.com/OpenSAE), I build open research infrastructure f
 **Other projects** · 🧭 [SAE Input Localization](https://github.com/OpenSAE/SAE-Input-Localization) · 🎯 [SymSelect](https://github.com/AtheavenMa/SymSelect) · ⏳ [The Limits of Reward Guidance](https://github.com/AtheavenMa/The-Limits-of-Reward-Guidance-under-Finite-Adaptation) · 🧬 [SpatialPheno](https://github.com/AtheavenMa/SpatialPheno) · 🔬 [DeepInfo](https://github.com/AtheavenMa/DeepInfo)
 
 <details>
-<summary>2027 submissions</summary>
-
-- **ICLR 2027:** *Sparse Autoencoders Do Not Guarantee Local Features* · [*Behavioral Compositionality of Sparse Autoencoder Representations*](https://github.com/OpenSAE/SAE-Behavioral-Compositionality) · *Certifying Reuse for LLM Components from Local Interventions*
-- **AAAI 2027:** [*Representation Redistribution in Sparse Autoencoders*](https://github.com/OpenSAE/Redistribution-Sensitivity-Score) · *Gender Attribution by Proxy: Restraint, Fallback, and Rationalization in LLMs*
-- **NAACL 2027:** [*SymSelect: Learning Which Transformations to Trust for Systematic Reasoning*](https://github.com/AtheavenMa/SymSelect)
-- **COLING 2027:** [*The Limits of Reward Guidance under Finite Adaptation*](https://github.com/AtheavenMa/The-Limits-of-Reward-Guidance-under-Finite-Adaptation)
-
-*All works listed above are submissions, not accepted papers.*
-
-</details>
-
-<details>
 <summary>Research directions</summary>
 
 - **Faithful representations and mechanistic interpretability.** Test when learned features support faithful explanations, localization, and interventions.
