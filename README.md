@@ -2,16 +2,19 @@
 
 Ph.D. Candidate, UW–Madison Computer Sciences | Founder & Maintainer, [OpenSAE](https://atheavenma.github.io/opensae/index.html)
 
-[Website](https://atheavenma.github.io/) · [CV](https://atheavenma.github.io/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/atheaven-ma/) · [Hugging Face](https://huggingface.co/Hunter26666666) · [Email](mailto:hma232@wisc.edu)
+[Website](https://atheavenma.github.io/) · [CV](https://atheavenma.github.io/CV.pdf?v=20261107-revised-final) · [LinkedIn](https://www.linkedin.com/in/Atheaven-Ma) · [Hugging Face](https://huggingface.co/Hunter26666666) · [Email](mailto:hma232@wisc.edu)
 
-I study how learned representations shape model behavior across interventions, combinations, and changing contexts. My work brings together theory, controlled interventions, open-source research infrastructure, and large-scale evaluation in mechanistic interpretability, LLM reasoning, AI safety, and AI for scientific discovery.
+**Explaining AI from learned features to abstract concepts.**
 
-My selected publications include [*Spectral-Spatial Interpretation*](https://arxiv.org/abs/2610.21114) (**NeurIPS 2026**), [*SegJointGene*](https://www.biorxiv.org/content/10.64898/2026.01.08.698474v1.full.pdf) (**Bioinformatics 2026**), and [*DeepInfo*](https://proceedings.mlr.press/v162/ma22b.html) (**ICML 2022 Spotlight**).
+I am a Ph.D. candidate in Computer Sciences at the University of Wisconsin–Madison, advised by Prof. [Daifeng Wang](https://daifengwanglab.org/). I have also worked with Profs. [Aws Albarghouthi](https://pages.cs.wisc.edu/~aws/) and [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/), and previously with Prof. [Quanshi Zhang](http://qszhang.com/) during a research internship at the John Hopcroft Center.
 
-At [OpenSAE](https://github.com/OpenSAE), I build open research infrastructure for understanding and evaluating language models, including sparse autoencoder analysis, controlled interventions, and reproducible benchmarks.
+My research focuses on **mechanistic interpretability** and the reliability of feature explanations. I study when learned features can explain model behavior, how they interact, and how their effects change under interventions and shifts in context. I combine theoretical analysis, controlled experiments, and evaluation at scale, with related research in **LLM reasoning**, **AI safety**, and **interpretable AI for scientific discovery**.
 
-**Recent recognition:** NeurIPS 2026 Top Reviewer · ICML 2026 Silver Reviewer
+I founded [OpenSAE](https://github.com/OpenSAE) to develop open research infrastructure for studying and testing sparse autoencoder features in LLMs. I am seeking **Research Scientist and postdoctoral research opportunities** in mechanistic interpretability, AI safety, and frontier model evaluation.
 
+My selected publications include [*Spectral-Spatial Interpretation*](https://arxiv.org/abs/2610.21114) (**NeurIPS 2026**), [*SegJointGene*](https://academic.oup.com/bioinformatics/article/42/7/btag447/8716246) (**Bioinformatics 2026**), [*Quantification and Analysis of Layer-wise and Pixel-wise Information Discarding*](https://proceedings.mlr.press/v162/ma22b.html) (**ICML 2022 Spotlight**), and [*Interpreting CNNs via Decision Trees*](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Interpreting_CNNs_via_Decision_Trees_CVPR_2019_paper.pdf) (**CVPR 2019**).
+
+**Recent recognition:** NeurIPS 2026 Top Reviewer · ICML 2026 Silver Reviewer · ACM BCB 2025 Student and Young Professional Award
 
 ## Achievements
 
@@ -63,9 +66,61 @@ At [OpenSAE](https://github.com/OpenSAE), I build open research infrastructure f
 <details>
 <summary>Research directions</summary>
 
-- **Faithful representations and mechanistic interpretability.** Test when learned features support faithful explanations, localization, and interventions.
-- **Interpretable AI for scientific discovery.** Connect model predictions to spatial, spectral, and molecular structures.
-- **Compositionality, intervention, and systematic reasoning in LLMs.** Study when components and transformations can be combined, reused, or generalized.
-- **Reliable LLMs and AI safety.** Analyze uncertain preferences, unsupported user-identity assumptions, and privacy risks.
+- **Compositionality, Intervention, and Systematic Reasoning in LLMs.** Study when model components and structural transformations can be combined, reused, or generalized reliably in unseen settings.
+- **Faithful Representations and Mechanistic Interpretability.** Understand feature representations and how those representations support faithful explanations and interventions.
+- **Interpretable AI for Scientific Discovery.** Develop interpretable methods that connect model decisions to scientifically meaningful spatial, spectral, and molecular structure.
+
+</details>
+
+## Education
+
+| Institution | Degree and advisor | Dates |
+| --- | --- | --- |
+| University of Wisconsin–Madison | Ph.D. in Computer Sciences · Advisor: Prof. Daifeng Wang | Sep 2021 – Jun 2027 |
+| Southern University of Science and Technology | B.S. in Physics · Advisor: Prof. Hu Xu | Sep 2016 – Jun 2021 |
+
+## Experience
+
+| Organization | Role and focus | Dates |
+| --- | --- | --- |
+| [OpenSAE](https://github.com/OpenSAE) | Founder & Maintainer. Built research infrastructure for large-scale LLM evaluation, SAE interventions, and benchmarking. | Oct 2026 – Present |
+| [Waisman Center](https://www.waisman.wisc.edu/), University of Wisconsin–Madison | Graduate Research Assistant. Led methodological development and quantitative analysis for interpretable methods in spatial omics. Advisor: Prof. Daifeng Wang. | Sep 2023 – Present |
+| [Department of Computer Sciences](https://www.cs.wisc.edu/), University of Wisconsin–Madison | Graduate Research Assistant. Developed symbolic labeling rules and evaluation pipelines for automated weak supervision. Advisors: Prof. Aws Albarghouthi and Prof. Frederic Sala. | Sep 2021 – Jun 2022 |
+| [Center for Vision, Cognition, Learning, and Autonomy (VCLA)](https://vcla.stat.ucla.edu/), UCLA | Research Intern. Explored energy-based modeling and efficient sampling methods for protein discovery. Advisor: Prof. Ying Nian Wu. | Jul 2020 – Oct 2020 |
+| [Department of Physics](https://phy.sustech.edu.cn/), Southern University of Science and Technology | Research Assistant. Applied generative models and efficient sampling methods to identify stable crystal structures. Advisor: Prof. Hu Xu. | Sep 2019 – Jun 2020 |
+| [John Hopcroft Center](https://jhc.sjtu.edu.cn/), Shanghai Jiao Tong University | Research Intern. Investigated interpretable methods to explain the prediction logic of convolutional neural networks. Advisor: Prof. Quanshi Zhang. | Jul 2018 – Jul 2019 |
+
+<details>
+<summary>Awards, service, teaching, and skills</summary>
+
+### Awards
+
+- **Top Reviewer**, NeurIPS, 2026
+- **Silver Reviewer**, ICML, 2026
+- **Student and Young Professional Award**, ACM BCB, 2025
+- **UW–Madison Computer Sciences Scholarship**, 2024
+- **UW–Madison Computer Sciences First-Year Scholarship**, 2021
+- **Second Prize**, ASC Student Supercomputer Challenge, 2018
+- **Silver Medal**, International Genetically Engineered Machine (iGEM) Competition, 2018
+- **Outstanding Participant, Ranked 6th of 120**, Nankai University National High School Philosophy Summer Program, 2015
+- **National Second Prize**, 6th National Mathematics, Physics and Chemistry Competition for Secondary School Students, 2014
+
+### Professional Service
+
+- **Journal Reviewer:** Pattern Recognition (Elsevier) and IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
+- **Conference Program Committee:** NeurIPS 2026, ECCV 2026, ICML 2026, CVPR 2026, etc.
+
+### Teaching
+
+- **Teaching Assistant, UW–Madison:** Machine Learning (CS 760), Introduction to Artificial Intelligence (CS 540), and Data Science Programming II (CS 320).
+- **Education Assistant, UW–Madison ALP Precollege:** Introduction to Neuroscience.
+
+### Skills
+
+- **LLMs & Agent Systems:** LLM Evaluation, LLM Inference, Prompt Engineering, Synthetic Data Generation, Multi-Agent Orchestration, Large-Scale Agent Experimentation, Evaluation Harnesses, vLLM
+- **Machine Learning & Interpretability:** Mechanistic Interpretability, Sparse Autoencoders, Representation Analysis, Representation Interventions, LLM Steering, Feature Attribution, Multimodal Learning, Transformers
+- **GPU, HPC & Performance Engineering:** CUDA/GPU, GPU Parallelism, Parallel Experiment Execution, Performance Optimization, Slurm/HPC, Linux, Bash, Docker
+- **Statistical & Scientific Computing:** Statistical Inference, Hierarchical Bayesian Modeling, Low-Rank Modeling, Image Segmentation, Spatial Omics, Spatial Transcriptomics, Spatial Proteomics
+- **Programming & Tools:** Python, C++, R, SQL, PyTorch, TensorFlow, scikit-learn, Git
 
 </details>
