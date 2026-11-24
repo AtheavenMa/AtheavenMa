@@ -2,7 +2,7 @@
 
 Ph.D. Candidate, UW–Madison Computer Sciences | Founder & Maintainer, [OpenSAE](https://atheavenma.github.io/opensae/index.html)
 
-[Website](https://atheavenma.github.io/) · [CV](https://atheavenma.github.io/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/atheaven-ma/) · [Hugging Face](https://huggingface.co/Hunter26666666) · [Email](mailto:hma232@wisc.edu)
+[Website](https://atheavenma.github.io/) · [CV (PDF)](./CV.pdf) · [LinkedIn](https://www.linkedin.com/in/atheaven-ma/) · [Hugging Face](https://huggingface.co/Hunter26666666) · [Email](mailto:hma232@wisc.edu)
 
 I study how learned representations shape model behavior across interventions, combinations, and changing contexts. My work brings together theory, controlled interventions, open-source research infrastructure, and large-scale evaluation in mechanistic interpretability, LLM reasoning, AI safety, and AI for scientific discovery.
 
