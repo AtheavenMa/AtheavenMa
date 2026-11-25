@@ -62,7 +62,7 @@ At [OpenSAE](https://github.com/OpenSAE), I build open research infrastructure f
   </tr>
 </table>
 
-**Other projects** · 🧭 [SAE Input Localization](https://github.com/OpenSAE/SAE-Input-Localization) · 🎯 [SymSelect](https://github.com/AtheavenMa/SymSelect) · ⏳ [The Limits of Reward Guidance](https://github.com/AtheavenMa/The-Limits-of-Reward-Guidance-under-Finite-Adaptation) · 🧬 [SpatialPheno](https://github.com/AtheavenMa/SpatialPheno) · 🔬 [DeepInfo](https://github.com/AtheavenMa/DeepInfo)
+**Other projects** · 🧭 [SAE Input Localization](https://github.com/OpenSAE/SAE-Input-Localization) · 🎯 [SymSelect](https://github.com/AtheavenMa/SymSelect) · ⏳ [The Limits of Reward Guidance](https://github.com/AtheavenMa/The-Limits-of-Reward-Guidance-under-Finite-Adaptation) · 🔬 [DeepInfo](https://github.com/AtheavenMa/DeepInfo)
 
 <details>
 <summary>Research directions</summary>
